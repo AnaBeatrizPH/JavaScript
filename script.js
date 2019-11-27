@@ -1,0 +1,1 @@
+alert("Olá, preste atenção na vida");
