@@ -1,0 +1,49 @@
+#topo
+{
+    background-color: rgb(218, 86, 112);
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
+
+.linha
+{
+   background-color: rgb(223, 151, 165);
+   border: 20% rgb(216, 196, 196);
+}
+
+.tabuleiro
+{
+    background-color: rgb(223, 151, 165);
+    border: 20% solid rgb(216, 196, 196); 
+    text-align: center;
+    height: 250px;
+    
+}
+
+.margem
+{
+    background-color: white;
+}
+
+.img
+{
+    padding: 0%;
+    height: 4%;
+    width: 4%;
+    padding-bottom: 1%;
+    margin-bottom: 2%;
+}
+
+#rodape
+{
+    background-color: rgb(218, 86, 112);
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
+
+.fundotit
+{
+    background: url("fundo.jpg");
+}
