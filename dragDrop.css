@@ -1,0 +1,74 @@
+#back
+{
+    background-color: rgba(56, 53, 55, 0.911);
+}
+
+#pendentes
+{
+    background-color: rgb(168, 5, 119);
+   
+    
+}
+
+#fazendo 
+{
+ background-color: rgb(221, 69, 176);
+ 
+
+}
+
+#feitas
+{
+    background-color: rgb(221, 156, 202);
+   
+ 
+
+}
+
+#titulos 
+{
+    text-align: center;
+    padding: 2%;
+}
+
+.itemtarefa
+{
+    color: rgb(10, 0, 143);
+ 
+    width: 70%;
+    border: 1px solid whitesmoke;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgb(10, 0, 143);
+    text-align: center;
+}
+
+.btn 
+{
+   
+   
+}
+
+h3 
+{
+    color: rgb(192, 124, 167)
+}
+
+h2
+{
+    text-align: center;
+    color: white;
+    padding: 3%; 
+}
+
+#tarefas 
+{
+    height: 200px;
+}
+
+a:hover 
+{
+    background-color: yellow;
+}
